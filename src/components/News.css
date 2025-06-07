@@ -237,11 +237,6 @@ footer p {
     height: 20rem;
   }
 
-  .news-grid {
-    grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(6, 1fr);
-  }
-
   footer {
     min-height: 8rem;
     flex-direction: column;
